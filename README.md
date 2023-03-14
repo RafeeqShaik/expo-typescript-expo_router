@@ -1,1 +1,3 @@
-# expo-typescript-expo_router
+To install lint-staged now -
+
+npx mrm@2 lint-staged
